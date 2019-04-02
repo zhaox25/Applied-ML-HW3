@@ -6,8 +6,14 @@ Used the data from 2017 provided here: https://www.cms.gov/OpenPayments/Explore-
 
 ## Outline:
 Identify Features
+
 Preprocessing and Baseline Model
+
 Feature Engineering
+
 Any model
+
 Feature Selections
+
 An explainable model
+
